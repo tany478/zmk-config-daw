@@ -2,7 +2,7 @@ file_format: "1"
 id: daw
 name: daw
 type: shield
-url: https://codeberg.org/tany478/zmk-config-daw
+url: https://github.com/tany478/zmk-config-daw
 requires: [seeeduino_xiao_ble]
 features:
   - keys
