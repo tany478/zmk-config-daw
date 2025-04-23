@@ -7,7 +7,7 @@
 	default_layer {
             bindings = <
                 &kp KP_ASTERISK  &kp ENTER   &kp I
-                &kp E            &kp T       &kp K
+                &kp KP_N0        &kp KP_DOT  &kp K
 	    >;
 	};
     };
