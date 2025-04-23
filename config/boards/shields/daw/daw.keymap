@@ -6,8 +6,8 @@
 
 	default_layer {
             bindings = <
-                &kp A &kp E &kp I
-                &kp Z &kp X &kp P
+                &kp KP_MULTIPLY  &kp ENTER   &bt BT_SEL 4
+                &kp KP_N0        &kp KP_DOT  &bt BT_CLR_ALL
 	    >;
 	};
     };
