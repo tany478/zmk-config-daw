@@ -8,7 +8,7 @@
             bindings = <
                 &kp A &kp E
                 &kp z &kp X
-	        >;
-	    };
+	    >;
+	};
     };
 };
